@@ -161,6 +161,17 @@ The project structure separates data preparation, preprocessing, model-related f
 
 ---
 
+## 👥 Team Members
+
+This is a team project developed collaboratively by:
+
+- **Vidhi Ptel** — Project Development & Integration
+- **Harshita Patil** — Project Team Member
+- **Supriya Singh** — Project Team Member
+
+---
+
+
 ## 📂 Project Structure
 
 ```text
@@ -201,14 +212,3 @@ StyleSnap-1-
     ├── preprocessing.py
     └── wardrobe.py
 
----
-
-## 👥 Team Members
-
-This is a team project developed collaboratively by:
-
-- **Vidhi Ptel** — Project Development & Integration
-- **Harshita Patil** — Project Team Member
-- **Supriya Singh** — Project Team Member
-
----
