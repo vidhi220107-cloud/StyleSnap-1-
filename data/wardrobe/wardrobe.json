@@ -1,0 +1,98 @@
+[
+  {
+    "id": "20260907_122046_645517",
+    "name": "Brown leather watch",
+    "category": "Watches",
+    "color": "Brown",
+    "season": "All Season",
+    "occasion": "Formal",
+    "image": "data\\wardrobe\\images\\20260907_122046_645517.jpg",
+    "ai_prediction": "Watches",
+    "ai_confidence": 0.9984,
+    "added_at": "2026-09-07T12:20:46"
+  },
+  {
+    "id": "20260910_225718_372448",
+    "name": "mustard shirt",
+    "category": "Shirts",
+    "color": "Other",
+    "season": "All Season",
+    "occasion": "Casual",
+    "image": "data\\wardrobe\\images\\20260910_225718_372448.jpg",
+    "ai_prediction": "Shirts",
+    "ai_confidence": 0.356,
+    "added_at": "2026-09-10T22:57:18"
+  },
+  {
+    "id": "20260910_225802_727406",
+    "name": "H&M shirt",
+    "category": "Shirts",
+    "color": "Red",
+    "season": "All Season",
+    "occasion": "Casual",
+    "image": "data\\wardrobe\\images\\20260910_225802_727406.jpg",
+    "ai_prediction": "Shirts",
+    "ai_confidence": 0.4167,
+    "added_at": "2026-09-10T22:58:02"
+  },
+  {
+    "id": "20260910_225903_035308",
+    "name": "Formal pant",
+    "category": "Trousers",
+    "color": "Black",
+    "season": "All Season",
+    "occasion": "Formal",
+    "image": "data\\wardrobe\\images\\20260910_225903_035308.webp",
+    "ai_prediction": "Track Pants",
+    "ai_confidence": 0.9961,
+    "added_at": "2026-09-10T22:59:03"
+  },
+  {
+    "id": "20260910_230039_339901",
+    "name": "Green dial Watch",
+    "category": "Watches",
+    "color": "Other",
+    "season": "All Season",
+    "occasion": "Casual",
+    "image": "data\\wardrobe\\images\\20260910_230039_339901.jpg",
+    "ai_prediction": "Watches",
+    "ai_confidence": 0.9977,
+    "added_at": "2026-09-10T23:00:39"
+  },
+  {
+    "id": "20260910_230359_448824",
+    "name": "GaliLABS shoes",
+    "category": "Casual Shoes",
+    "color": "Green",
+    "season": "All Season",
+    "occasion": "Casual",
+    "image": "data\\wardrobe\\images\\20260910_230359_448824.webp",
+    "ai_prediction": "Sports Shoes",
+    "ai_confidence": 0.4996,
+    "added_at": "2026-09-10T23:03:59"
+  },
+  {
+    "id": "20260910_230437_379783",
+    "name": "formal shoes",
+    "category": "Formal Shoes",
+    "color": "Brown",
+    "season": "All Season",
+    "occasion": "Formal",
+    "image": "data\\wardrobe\\images\\20260910_230437_379783.jpg",
+    "ai_prediction": "Formal Shoes",
+    "ai_confidence": 0.8407,
+    "added_at": "2026-09-10T23:04:37"
+  },
+  {
+    "id": "20260910_230754_470121",
+    "name": "Grey Jeans",
+    "category": "Jeans",
+    "color": "Grey",
+    "season": "All Season",
+    "occasion": "Casual",
+    "image": "data\\wardrobe\\images\\20260910_230754_470121.webp",
+    "ai_prediction": "Jeans",
+    "ai_confidence": 0.5003,
+    "added_at": "2026-09-10T23:07:54"
+  }
+]

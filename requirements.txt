@@ -1,0 +1,13 @@
+# Core application and deep-learning stack
+tensorflow>=2.16,<2.19
+streamlit>=1.35,<2.0
+
+# Image and data handling
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+Pillow>=10.0,<12.0
+scikit-learn>=1.4,<2.0
+matplotlib>=3.8,<4.0
+
+# Dataset acquisition/export for the selected Hugging Face source
+datasets>=2.19,<4.0

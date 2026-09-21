@@ -1,0 +1,47 @@
+# Python bytecode and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.local_packages/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets (keep only documentation in version control)
+data/raw/
+data/train/
+data/validation/
+data/test/
+data/downloads/
+
+# Trained TensorFlow/Keras artifacts and experiment output
+models/*
+!models/.gitkeep
+*.keras
+*.h5
+*.hdf5
+*.tflite
+*.ckpt
+checkpoint
+logs/
+
+# Streamlit local configuration and secrets
+.streamlit/secrets.toml
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log

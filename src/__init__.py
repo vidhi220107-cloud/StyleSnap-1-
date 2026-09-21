@@ -1,0 +1,1 @@
+"""StyleSnap application package."""
