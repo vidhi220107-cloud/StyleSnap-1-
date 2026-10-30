@@ -45,3 +45,6 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+# Allow StyleSnap trained model
+!models/
+!models/stylesnap_mobilenetv2_best.keras
