@@ -48,26 +48,42 @@ IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 # Load class names
 # ---------------------------------------------------------
 
+
 def get_class_names() -> tuple[str, ...]:
-    """Discover the same alphabetical class order used by TensorFlow."""
-
-    train_dir = Path(CONFIG.train_data_dir)
-
-    if not train_dir.is_dir():
-        raise FileNotFoundError(
-            f"Training directory does not exist: {train_dir}"
-        )
-
-    class_names = sorted(
-        folder.name
-        for folder in train_dir.iterdir()
-        if folder.is_dir()
+    """Return the original alphabetical class mapping used during training."""
+    return (
+        "Backpacks",
+        "Belts",
+        "Bra",
+        "Briefs",
+        "Casual Shoes",
+        "Deodorant",
+        "Dresses",
+        "Earrings",
+        "Flats",
+        "Flip Flops",
+        "Formal Shoes",
+        "Handbags",
+        "Heels",
+        "Jeans",
+        "Kurtas",
+        "Lipstick",
+        "Nail Polish",
+        "Perfume and Body Mist",
+        "Sandals",
+        "Sarees",
+        "Shirts",
+        "Shorts",
+        "Socks",
+        "Sports Shoes",
+        "Sunglasses",
+        "Tops",
+        "Track Pants",
+        "Trousers",
+        "Tshirts",
+        "Wallets",
+        "Watches",
     )
-
-    if len(class_names) < 2:
-        raise ValueError("At least two fashion categories are required.")
-
-    return tuple(class_names)
 
 
 # ---------------------------------------------------------
