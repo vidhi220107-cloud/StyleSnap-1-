@@ -2,7 +2,7 @@
 
 ### AI-powered fashion companion for wardrobe management, outfit styling, fashion product classification, and smart shopping.
 
-🚀 **Live Project:** 👉 https://stylesnap.streamlit.app/
+🚀 **Live Project:** 👉 https://stylesnap21.streamlit.app/
 
 ---
 
