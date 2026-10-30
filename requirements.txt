@@ -11,3 +11,4 @@ matplotlib>=3.8,<4.0
 
 # Dataset acquisition/export for the selected Hugging Face source
 datasets>=2.19,<4.0
+opencv-python-headless>=4.9,<5
